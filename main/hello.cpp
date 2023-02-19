@@ -5,6 +5,6 @@ using namespace std;
 int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "PES1UG20CS073 has successfully built and run\n";
+  cout << "Task has successfully built and run\n";
   return 0;
 }
